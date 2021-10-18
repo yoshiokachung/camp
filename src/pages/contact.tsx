@@ -44,7 +44,6 @@ export default function Contact() {
         <h1 style={{ marginTop: 0 }}>Contact</h1>
 
         <div className={contactStyles.name}>
-          JJ Kasper - Next.js Engineer @{' '}
           <ExtLink href="https://vercel.com">Vercel</ExtLink>
         </div>
 
